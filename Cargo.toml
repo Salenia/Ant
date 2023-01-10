@@ -1,0 +1,8 @@
+[package]
+name = "ant"
+edition = "2021"
+
+[workspace]
+members = [
+    "crates/**"
+]
